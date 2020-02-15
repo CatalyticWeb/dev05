@@ -35,3 +35,8 @@
 .header-purple {
   color: #bb99ff;
 }
+.discord-pop {
+  background-image: url("img/discord-logo-263x300.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+}
