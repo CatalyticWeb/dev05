@@ -20,3 +20,14 @@
 .centered-text {
   text-align: center;
 }
+.bg-new-set {
+  background-image: linear-gradient(to bottom right, #642fc4, #2d017d); 
+}
+
+.button-purple {
+  background-image: linear-gradient(#8c46d2, #4728a4)
+}
+
+.button-light-grey {
+  background-image: linear-gradient(#f2f2f2, #d9d9d9)
+}
